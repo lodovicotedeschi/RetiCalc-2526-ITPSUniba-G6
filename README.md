@@ -2,3 +2,4 @@
 Lodovico Tedeschi, Paolo Vigone.
 Per la consegna TCP è stato utilizzato Windows 11.
 Per la consegna UDP è stato utilizzato Windows 11.
+Nome server = localhost.
